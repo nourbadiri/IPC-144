@@ -1,0 +1,18 @@
+*****************************************************************************
+                               Reflection
+                             Workshop - #6
+Full Name  : NOUR BADIRI	
+Student ID#:108435215 
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+
+1. One of the parallel arrays that I used in my code was financeOption[], it hold the value 'y' or 'n' as finance option available or not wheras priority[] stores the integer value ranges between 1 to 3 representing the priority of the whishlist. We can notice then that the index of the array is the key to accomplish this, 
+because they link consecutively all the arrays together.
+
+2. It is a common practice to iterate arrays initializing the iterator variable to zero because arrays always start with index 0 as a standard in the programming language. Therefore, sticking on it just help the programmers not only to remain consistent but also makes his code lengthy and increase complexity by 1 more iteration.
+
+3. If I want to explain arrays concept to a child of (5-8-year-old), I'll bring 5 different colours of pens and put them in order on a table. Then I'm going to tell him that all this collection of pens that I brought is called an array because they are all pens but with different colours. I'll ask him then to pick a pen, so he will have to go to the location of the chosen pen (index). So I will explain to him later that every pen has its own location in this collection.

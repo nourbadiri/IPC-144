@@ -1,0 +1,22 @@
+*****************************************************************************
+                               Reflection
+                             Workshop - #7
+Full Name  : NOUR BADIRI
+Student ID#: 108435215
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+
+1. One of the benefits and advantages of using user-defined types (structures) in this workshop is that the programmer can group and self-document all his related data into one object. Therefore all this data such us values and their definition garantee conformity and consistency. Therefore, the user may create many other structures in order to organise his variables and give more lucidity to the source code.
+
+2. The two main logical changes that a user would have to make to his program in order to keep a history of games played including the endgame results is the parallel arrays. In fact, The first one will hold the history meanwhile the second one will hold the endgame. These two elements are actually at the same index hold data that are connected to the same entity which is the game. The second logical change is writing the game and the player information out to a file or a hard drive in order to save all information and avoid any waste.
+
+3. In this workshop, I spent the most time working on part 2. It was very challenging for me to get the right output and be able to submit it since I'm still a beginner in this field and try to absorb all the programming information. In order to overcome all my difficulties, I spared no effort during these couple days and tried to contact some classmates to give me a hint in case I was completly stuck. For instance, I couldn't be able to evaluate the move result of the player if he's going to get a bomb or a treasure. However, I feel very grateful and satisfied when the code comes to be done properly without any errors and forgot right away all the efforts that I provided before.
+
+
+
+
+
