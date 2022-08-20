@@ -1,0 +1,45 @@
+*****************************************************************************
+                              Reflection
+                          Workshop - #3 (P2)
+Full Name  : NOUR BADIRI
+Student ID#: 108435215
+Email      : nbadiri@myseneca.ca
+Section    : NNN
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+1. The cents2 variable doesn't properly represent the total cents of price2 because if we want to get the number represented by binary and we subtract the prices (10.10, 10.12, 10.15) from the numbers that we get after compiling, we notice that the error of 10.12 shows up in 15 decimals and is twice bigger than the other numbers.	
+
+2. #include <stdio.h>
+
+   int main(void)
+   { 
+
+   int fifties = 50;
+   int twenties = 20;
+   int tens= 10;
+   int fives= 5;
+   int total = 85; 
+   
+   printf("fifties  : %d\n", (total/fifties)%fifties);
+   printf("twenties : %d\n", (fifties/twenties)%twenties);
+
+   return0;
+   }
+
+3. #include <stdio.h>
+
+   int main(void)
+   { 
+
+   int Dollar = 7245;
+   float cents;
+
+   Dollar = cents; // 1st way
+   Dollar = (float)dollar; // 2nd way
+   if (cents > Dollar)   Dollar = cents; // 3rd way
+																																																																											
+

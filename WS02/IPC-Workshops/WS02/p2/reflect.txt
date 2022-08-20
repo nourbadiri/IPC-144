@@ -1,0 +1,18 @@
+*****************************************************************************
+                              Reflection
+                          Workshop - #2 (P2)
+Full Name  : NOUR BADIRI    
+Student ID#: 108435215
+Email      : nbadiri@myseneca.ca
+Section    : NNN
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+1. One of the difficult expression that I had in this workshop is %d. During my many attempts of coding, I wasn't able to adjust and align all the columns in the tabular format. Few moments later, I understood that we can fix this problem by adding a number to the sequence depending on how many spaces we have in the tabular.
+
+2. If we took "Mild&&Light" as an example of logical expression, we can analyse it in two different ways but having the same result. The other expression that we can use is "Mild!=Light".
+
+3. In part 1, I think we were asked to use a new variable to calculate the average because we had to use 3 different variables and combine them to get the average. Meanwhile, in part 2, the 3 values were depending to the same variable.
